@@ -1,0 +1,173 @@
+[
+    {
+      "year": "4.6 b.y.a.",
+      "title": "Birth of the Solar System and Earth",
+      "description": "The Solar System formed from a giant molecular cloud, and Earth was born during this period.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Mysterious_Case_of_the_Disappearing_Dust.jpg/640px-The_Mysterious_Case_of_the_Disappearing_Dust.jpg",
+      "impact": "This event marks the beginning of Earth's geological and biological evolution.",
+      "category": "Astronomy",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Formation_of_the_Solar_System"
+    },
+    {
+      "year": "4.48 b.y.a.",
+      "title": "Oldest Moon Rocks",
+      "description": "The oldest known rocks from the Moon, brought back by Apollo missions, date to around 4.48 billion years ago.",
+      "image": "https://www.science.org/do/10.1126/science.aaw8383/abs/ca_0201NID_Big_Bertha_online.jpg",
+      "impact": "These rocks provide valuable insights into the early history of the Moon and the Earth-Moon system.",
+      "category": "Geology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Moon_rock"
+    },
+    {
+      "year": "4.0 b.y.a.",
+      "title": "Oldest Rocks Recognized on Earth",
+      "description": "The oldest rocks on Earth have been dated to approximately 4.0 billion years, providing insight into early Earth conditions.",
+      "image": "https://earthlymission.com/wp-content/uploads/2023/07/oldest-rocks-on-earth-5.jpg",
+      "impact": "These rocks are essential for understanding the formation of Earth's crust and early geological processes.",
+      "category": "Geology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Oldest_dated_rocks"
+    },
+    {
+      "year": "3.5 b.y.a.",
+      "title": "Oldest Recognizable Fossils of Single-Celled Bacteria",
+      "description": "Fossils of single-celled bacteria, dating to around 3.5 billion years ago, mark the earliest evidence of life on Earth.",
+      "image": "https://www.pbs.org/wgbh/nova/media/images/new-fossils-push-back-earliest-single-celled-.width-1500.jpg",
+      "impact": "These fossils provide the first evidence of life on Earth, helping to trace the origins of biology.",
+      "category": "Paleontology",
+      "readMoreLink": "https://ucmp.berkeley.edu/bacteria/cyanofr.html#:~:text=The%20oldest%20known%20fossils%2C%20in,the%20easiest%20microfossils%20to%20recognize."
+    },
+    {
+      "year": "1.5 b.y.a.",
+      "title": "Oldest Recognizable Single-Celled Organisms with Nuclei",
+      "description": "The first recognizable single-celled organisms with nuclei appeared around 1.5 billion years ago.",
+      "image": "https://www.popsci.com/wp-content/uploads/2023/06/09/Parameciumbursaria.jpg",
+      "impact": "This event represents the evolution of complex cells, laying the foundation for multicellular life.",
+      "category": "Biology",
+      "readMoreLink": "https://www.popsci.com/science/protosterol-biota-ancient-eukaryotes/#:~:text=Newfound%20single%2Dcelled%20hunters%20may,eukaryotes%20in%20an%20ancient%20rock."
+    },
+    {
+      "year": "1.0 b.y.a.",
+      "title": "Origin of Sexual Reproduction",
+      "description": "Sexual reproduction likely emerged around 1 billion years ago, driving genetic diversity and evolution.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Darwin%27s_finches_by_Gould.jpg/270px-Darwin%27s_finches_by_Gould.jpg",
+      "impact": "The origin of sexual reproduction is a key step in increasing genetic diversity and evolutionary innovation.",
+      "category": "Biology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Evolution_of_sexual_reproduction"
+    },
+    {
+      "year": "700 m.y.a.",
+      "title": "First Multi-Celled Animals",
+      "description": "The first multi-celled animals appeared around 700 million years ago, marking a key step in the evolution of complex life forms.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ColonialFlagellateHypothesis.png/975px-ColonialFlagellateHypothesis.png",
+      "impact": "The rise of multi-cellular organisms set the stage for the complex animals that followed, including humans.",
+      "category": "Paleontology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Multi-celled_organisms"
+    },
+    {
+      "year": "540 m.y.a.",
+      "title": "First Animals with Hard Shells",
+      "description": "The first animals with hard shells, such as trilobites, appeared around 540 million years ago during the Cambrian period.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cloudina_NT.jpg/330px-Cloudina_NT.jpg",
+      "impact": "The evolution of hard shells protected organisms and allowed for the development of more complex ecosystems.",
+      "category": "Paleontology",
+      "readMoreLink": "https://www.japantimes.co.jp/news/2014/06/27/world/science-health-world/first-animal-with-hard-outer-skeleton-built-earliest-reefs/#:~:text=Cloudina%2C%20one%20of%20the%20earliest,predators%20and%20improves%20food%20gathering."
+    },
+    {
+      "year": "480 m.y.a.",
+      "title": "First Fish",
+      "description": "The first fish appeared around 480 million years ago, marking a crucial step in the evolution of vertebrates.",
+      "image": "https://d1gtq9mqg5x3oe.cloudfront.net/hermes/images/news/insights/2022/07-july/fish-iskromne/promo/fish-promo-1440x810.jpg",
+      "impact": "Fish are the ancestors of all vertebrates, including mammals, reptiles, and birds, making them pivotal in evolutionary history.",
+      "category": "Paleontology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Evolution_of_fish"
+    },
+    {
+      "year": "420 m.y.a.",
+      "title": "First Land Plants",
+      "description": "The first land plants evolved around 420 million years ago, beginning the colonization of Earth's landmasses.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cooksonia_sp._-_MUSE.jpg/330px-Cooksonia_sp._-_MUSE.jpg",
+      "impact": "Land plants played a key role in shaping Earth's atmosphere and ecosystems, making terrestrial life possible.",
+      "category": "Botany",
+      "readMoreLink": "https://simple.wikipedia.org/wiki/Cooksonia"
+    },
+    {
+      "year": "380 m.y.a.",
+      "title": "First Amphibians",
+      "description": "Amphibians, the first vertebrates to live on land, evolved around 380 million years ago.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Elginerpeton_BW.jpg/330px-Elginerpeton_BW.jpg",
+      "impact": "Amphibians were crucial in the transition from aquatic to terrestrial life, influencing future vertebrate evolution.",
+      "category": "Zoology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Evolution_of_tetrapods"
+    },
+    {
+      "year": "320 m.y.a.",
+      "title": "First Reptiles",
+      "description": "Reptiles, the first fully terrestrial vertebrates, emerged around 320 million years ago.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Casineria_kiddi.jpg/330px-Casineria_kiddi.jpg",
+      "impact": "Reptiles' adaptation to land environments allowed for the colonization of diverse ecosystems and laid the groundwork for mammals and birds.",
+      "category": "Zoology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Evolution_of_reptiles"
+    },
+    {
+      "year": "250 m.y.a.",
+      "title": "Largest Mass Extinction in Earth's History",
+      "description": "The Permian-Triassic extinction event, around 250 million years ago, was the largest mass extinction, wiping out 90% of species.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Permian-Triassic_boundary_at_Frazer_Beach%2C_NSW.jpg/330px-Permian-Triassic_boundary_at_Frazer_Beach%2C_NSW.jpg",
+      "impact": "This mass extinction reshaped life on Earth, paving the way for the rise of the dinosaurs and later mammals.",
+      "category": "Paleontology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event"
+    },
+    {
+      "year": "210 m.y.a.",
+      "title": "First Dinosaurs",
+      "description": "Dinosaurs first appeared around 210 million years ago, becoming the dominant life forms during the Mesozoic era.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Royal_Ontario_Museum_Eoraptor.JPG/330px-Royal_Ontario_Museum_Eoraptor.JPG",
+      "impact": "Dinosaurs became the dominant terrestrial vertebrates, influencing ecosystems and evolutionary patterns for millions of years.",
+      "category": "Paleontology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Eoraptor"
+    },
+    {
+      "year": "160 m.y.a.",
+      "title": "First Birds",
+      "description": "Birds evolved from theropod dinosaurs around 160 million years ago, marking the rise of avian life forms.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg/330px-Archaeopteryx_lithographica_%28Berlin_specimen%29.jpg",
+      "impact": "The evolution of birds marks a major shift in the Earth's ecosystems, leading to the vast diversity of modern bird species.",
+      "category": "Paleontology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Archaeopteryx"
+    },
+    {
+      "year": "66 m.y.a.",
+      "title": "Mass Extinction, Including Dinosaurs",
+      "description": "A mass extinction event occurred 66 million years ago, leading to the extinction of the dinosaurs and the rise of mammals.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Cretaceous_Paleogene_clay_at_Geulhemmergroeve.jpg/1920px-Cretaceous_Paleogene_clay_at_Geulhemmergroeve.jpg",
+      "impact": "This event led to the decline of dinosaurs and opened ecological niches for mammals to evolve and diversify.",
+      "category": "Paleontology",
+      "readMoreLink": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"
+    },
+    {
+        "year": "3-4 m.y.a.",
+        "title": "Early Hominids",
+        "description": "Early hominids, ancestors of humans, appeared around 3-4 million years ago, laying the foundation for human evolution.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/330px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
+        "impact": "The emergence of early hominids marks the beginning of human evolution, setting the stage for the development of modern humans.",
+        "category": "Anthropology",
+        "readMoreLink": "https://en.wikipedia.org/wiki/Human_evolution"
+      },
+      {
+        "year": "2 m.y.a.",
+        "title": "Modern Ice Ages Begin",
+        "description": "The modern ice ages began around 2 million years ago, shaping Earth's climate and ecosystems.",
+        "image": "https://geology.utah.gov/wp-content/uploads/ice_ages2.gif",
+        "impact": "The ice ages had profound impacts on global climate patterns and ecosystems, driving evolutionary changes and shaping human migration.",
+        "category": "Climatology",
+        "readMoreLink": "https://en.wikipedia.org/wiki/Ice_age"
+      },
+      {
+        "year": "0.010 m.y.a.",
+        "title": "Advent of Agriculture and Civilization",
+        "description": "Around 10,000 years ago, humans began cultivating crops, leading to the rise of civilizations and the modern world.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Maler_der_Grabkammer_des_Sennudem_001.jpg/375px-Maler_der_Grabkammer_des_Sennudem_001.jpg",
+        "impact": "The development of agriculture revolutionized human society, allowing for the establishment of permanent settlements and the rise of complex civilizations.",
+        "category": "History",
+        "readMoreLink": "https://en.wikipedia.org/wiki/History_of_agriculture#:~:text=The%20development%20of%20agriculture%20about,horned%20cattle%20in%20Ancient%20Egypt."
+      }
+    ]

@@ -1,0 +1,103 @@
+/* Overall container */
+.timeline-container {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 200px; /* Adjust this value if needed */
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-y: auto;
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-right: 2px solid #ddd;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Timeline Year Buttons */
+.timeline-year {
+  padding: 8px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.timeline-year:hover {
+  background-color: #e0e0e0;
+}
+
+/* Event Details Panel */
+.details-panel {
+  margin-left: 220px; /* Offset for the sidebar */
+  padding: 20px;
+  text-align: center;
+  max-width: 800px;
+}
+
+.event-meta {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.event-meta span {
+  margin-right: 10px;
+}
+
+.event-content {
+  margin-top: 10px;
+}
+
+.event-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.event-category {
+  font-weight: bold;
+  color: #2d72d9;
+}
+
+.event-year {
+  font-style: italic;
+}
+
+a {
+  color: #2d72d9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Homepage */
+.homepage {
+  margin-left: 220px; /* Align with the sidebar */
+  padding: 20px;
+  text-align: center;
+  max-width: 800px;
+}
+
+.homepage h1 {
+  font-size: 2em;
+  color: #2d72d9;
+}
+
+.homepage h2 {
+  font-size: 1.5em;
+  color: #555;
+}
+
+.homepage p {
+  margin-top: 15px;
+  font-size: 1.2em;
+  color: #666;
+}
