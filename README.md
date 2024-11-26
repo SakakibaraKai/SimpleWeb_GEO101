@@ -1,4 +1,4 @@
-# Interactive Timeline
+# SimpleWeb_GEO101
 An **interactive timeline** that showcases significant events in Earth's history. Built with React, this project demonstrates basic React functionality, such as state management, dynamic rendering, and simple CSS styling.
 
 ---
@@ -27,8 +27,9 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/interactive-timeline.git
-   cd interactive-timeline
+   git clone https://github.com/yourusername/SimpleWeb_GEO101.git
+   cd SimpleWeb_GEO101
+   cd geo101
    ```
 2. Install dependencies:
    ```bash
